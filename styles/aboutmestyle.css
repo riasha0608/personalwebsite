@@ -1,8 +1,10 @@
 .reading, .baking, .dancing, .singing {
     font-weight:bold;
+    display:inline;
 }
 h1 {
     text-align:center;
+    color:white;
 }
 p {
     text-align: center;
