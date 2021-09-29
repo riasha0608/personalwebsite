@@ -1,12 +1,25 @@
 .reading, .baking, .dancing, .singing {
     font-weight:bold;
     display:inline;
+    margin: 30px;
+    margin-bottom: 0px;
+    margin-top: 15px
 }
 h1 {
     text-align:center;
     color:white;
 }
 p {
+    text-align: center;
+}
+.readtext, .baketext, .dancetext, .singtext {  
+    font-weight: bold;
+    display:inline;
+    margin: 85px;
+    margin-top: 0px;
+    text-align: center;
+}
+ul {
     text-align: center;
 }
 body {
@@ -16,7 +29,7 @@ html {
     background-color:darkcyan;
 }
 body {
-    width: 600px;
+    width: 1000px;
     margin: 0 auto;
     vertical-align: middle;
 }
