@@ -1,0 +1,53 @@
+h1 {
+    font-size: 60px;
+    color:antiquewhite;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+}
+p, li {
+    font-family: "Oswald", sans-serif;
+    font-size: 16px;
+    line-height:2;
+    letter-spacing: 1px;
+    text-decoration: wavy;
+}
+.bold {
+    font-weight: bold;
+}
+li.bold {
+    font-style:italic;
+}
+p.bold {
+    text-decoration: underline;
+}
+html {
+    background-color:cadetblue;
+}
+body {
+    background-color:crimson;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20x 20px;
+    border: 5px solid black;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+}
+
+img {
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+    /* height: auto; */
+}
+
+div.coolbox {
+    border:lightblue dotted 3px;
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+span.lang {
+    font-family: 'Courier New', Courier, monospace;
+}
