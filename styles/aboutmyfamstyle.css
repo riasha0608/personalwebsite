@@ -1,0 +1,30 @@
+h1 {
+    text-align:center;
+    color:rgb(138, 0, 138);
+}
+p {
+    text-align: center;
+}
+.famtext {  
+    font-weight: bold;
+    display:inline;
+    margin: 85px;
+    margin-top: 0px;
+    text-align: center;
+}
+.fampic1, .parentpic1, .grandmapic1, .bropic1 {
+    font-weight:bold;
+    display:inline;
+    margin: 30px;
+    margin-bottom: 0px;
+    margin-top: 15px
+}
+html {
+    background-color: rgb(193, 177, 207);
+}
+body {
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+    vertical-align: middle;
+}

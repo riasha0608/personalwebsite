@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+    color:white;
+}
+body {
+    background-image: url("../images/basketballBackground1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
