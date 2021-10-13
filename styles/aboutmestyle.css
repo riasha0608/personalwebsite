@@ -8,9 +8,11 @@
 h1 {
     text-align:center;
     color:white;
+    font-size: large;
 }
 p {
     text-align: center;
+    font-size: large;
 }
 .readtext, .baketext, .dancetext, .singtext {  
     font-weight: bold;
