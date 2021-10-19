@@ -8,7 +8,7 @@
 h1 {
     text-align:center;
     color:white;
-    font-size: large;
+    font-size:50px;
 }
 p {
     text-align: center;
@@ -28,7 +28,8 @@ body {
     text-align: center;
 }
 html {
-    background-color:darkcyan;
+    background-color:rgb(173, 218, 247);
+    font-family:'Lobster', cursive;
 }
 body {
     width: 1000px;
