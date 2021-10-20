@@ -1,9 +1,22 @@
 h1 {
     text-align: center;
-    color:white;
+    color:rgb(53, 53, 230);
 }
 body {
     background-image: url("../images/basketballBackground1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    color:white;
+    margin: 40px;
+}
+.sportslinks {
+    margin: 23px;
+}
+.otherpagelinks {
+    margin: 100px;
+}
+p {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'IM Fell English SC', serif;
 }

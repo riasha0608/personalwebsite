@@ -3,17 +3,41 @@
     display:inline;
     margin: 30px;
     margin-bottom: 0px;
-    margin-top: 15px
+    margin-top: 15px;
+}
+.readtext, .baketext, .dancetext, .singtext {
+    margin-left: 50px;
+}
+.picOfMe {
+    margin-left: 320px;
+}
+.firstlink {
+    margin-left: 350px;
+}
+.secondlink {
+    margin-left: 385px;
+}
+.thirdlink {
+    margin-left: 435px;
+}
+p {
+    text-align: center;
+    font-size: 25px;
+    font-family:'Lobster', cursive;
 }
 h1 {
     text-align:center;
     color:white;
     font-size:50px;
+    font-family:'Lobster', cursive;
 }
-p {
-    text-align: center;
-    font-size: large;
+h2 {
+    margin-top:1px;
+    font-family:'Lobster', cursive;
+    margin-left: 75px;
+    float: left;
 }
+
 .readtext, .baketext, .dancetext, .singtext {  
     font-weight: bold;
     display:inline;
@@ -21,18 +45,25 @@ p {
     margin-top: 0px;
     text-align: center;
 }
-ul {
-    text-align: center;
+.lists {
+    display:inline;
 }
-body {
+ol {
     text-align: center;
+    font-size:25px;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 700px;
+    float:left;
 }
 html {
     background-color:rgb(173, 218, 247);
-    font-family:'Lobster', cursive;
+    
 }
 body {
     width: 1000px;
     margin: 0 auto;
     vertical-align: middle;
+    border-style:dotted;
+    border-color: black;
+    background-color:rgb(149, 199, 233)
 }

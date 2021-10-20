@@ -5,6 +5,9 @@ h1 {
 p {
     text-align: center;
 }
+p1 {
+    color:rgb(138, 0, 138);
+}
 .famtext {  
     font-weight: bold;
     display:inline;
