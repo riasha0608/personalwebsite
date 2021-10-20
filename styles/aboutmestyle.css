@@ -32,10 +32,11 @@ h1 {
     font-family:'Lobster', cursive;
 }
 h2 {
+    text-align: center;
     margin-top:1px;
     font-family:'Lobster', cursive;
-    margin-left: 75px;
-    float: left;
+    /* margin-left: 75px;
+    float: left; */
 }
 
 .readtext, .baketext, .dancetext, .singtext {  
@@ -52,8 +53,13 @@ ol {
     text-align: center;
     font-size:25px;
     font-family: 'Montserrat', sans-serif;
-    margin-right: 700px;
-    float:left;
+    /* margin-right: 700px;
+    float:left; */
+}
+li {
+    text-align: center;
+    font-size:25px;
+    font-family: 'Montserrat', sans-serif;
 }
 html {
     background-color:rgb(173, 218, 247);

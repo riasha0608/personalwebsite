@@ -1,19 +1,21 @@
 h1 {
     text-align:center;
-    color:rgb(138, 0, 138);
+    color:white;
+    font-size:50px;
+    text-decoration: underline;
+    font-family: 'Dancing Script', cursive;
 }
 p {
     text-align: center;
 }
-p1 {
-    color:rgb(138, 0, 138);
+h2 {
+    font-family: 'Rampart One', cursive;
+    font-size: 30px;
+    text-decoration:underline;
 }
-.famtext {  
-    font-weight: bold;
-    display:inline;
-    margin: 85px;
-    margin-top: 0px;
-    text-align: center;
+ol {
+    font-family: 'Itim', cursive;
+    font-size:20px;
 }
 .fampic1, .parentpic1, .grandmapic1, .bropic1 {
     font-weight:bold;
@@ -30,4 +32,7 @@ body {
     width: 1000px;
     margin: 0 auto;
     vertical-align: middle;
+    border-style:double;
+    border-color:black;
+    background-color: rgb(175, 154, 194);
 }
